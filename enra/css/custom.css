@@ -1,0 +1,84 @@
+    #main_nav{
+        float:right;
+    }
+@media (max-width: 768px) {
+    #main_nav{
+        float:left;
+    }
+}
+#navy > li.current_page_item > a:not(.nav_trigger), #navy > li:hover > a:not(.nav_trigger), #navy > li.current > a, .light_header #navy > li.current > a {
+    color: #741a18 !important;
+}
+.title_banner{
+    background-color:#741a18 !important;
+}
+.icon_boxes_con.style2:not(.solid_icon):not(.icon_box_no_border) .service_box:hover .icon{
+    background:none !important;
+    color:#741a18;
+}
+.icon_boxes_con.style2 .service_box .icon{
+    background:none !important;
+}
+.icon_boxes_con.style2 .service_box .icon{
+    background:#741a18 !important;
+}
+.section_icon i{
+    color:#741a18;
+}
+.main_title .line i{
+    color:#741a18;
+}
+.team_block .back{
+    background:#741a18;
+    border: 1px solid #741a18;
+}
+.send_button{
+    background:#741a18;
+    border: 1px solid #741a18;
+}
+.service_box:hover h3{
+    color:#741a18 !important;
+}
+.custom-icon{
+    height: 65px !important;
+    width: 65px !important;
+    line-height: 66px !important;
+    top: 0 !important;
+}
+
+.main_title .dot {
+    background: #fff;
+    border: 1px solid #741a18;
+    height: 10px;
+    position: absolute;
+    top: -5px;
+    width: 10px;
+    
+}
+.shadow{
+    box-shadow: 0px 0px 18px lightgrey;
+    height:357px;    
+}
+.title1{
+    color:#741a18;
+}
+.font-icon-size{
+    font-size:60px;
+    color:#741a18;
+    border-bottom:2px solid #741a18;
+}
+.custom-hover:hover{
+    color:#741a18;
+}
+.custom-a .icon{
+    background:#741a18 !important;
+}
+ul.list1 li:after{
+    background:#741a18 !important;
+}
+
+
+
+
+
+

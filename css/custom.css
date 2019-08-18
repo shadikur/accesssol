@@ -1,0 +1,22 @@
+.custom-a{
+    padding:15px 45px 15px 45px;
+    letter-spacing:0;
+      font-size:13px;
+    }    
+
+@media (max-width: 576px) { 
+.custom-a{
+    padding:15px 14px 15px 14px;
+    letter-spacing:0;
+  font-size:11px;
+    }    
+}
+@media (max-width: 768px) { 
+    .custom-a{
+    padding:15px 14px 15px 14px;
+    letter-spacing:0;
+      font-size:11px;
+        
+    }
+    
+}
